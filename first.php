@@ -4,6 +4,9 @@
 	<title>Rental Portal</title>
 </head>
 <body>
+<h1>Rental Portal</h1>
+<br>
+<br>
 	<form action="Rental_database.php" method="post">
 	<label for="area">Choose Area: </label>
 	<select id="area" name="area">
